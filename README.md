@@ -1,1 +1,1 @@
-# class-activity-24
+//This program defines a structure for representing customers with each customer having three attributes, an ID, a name, and an email address. The program then asks the user for these values, stores them in a customer object, and then print the result.
